@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "858906526021",
+    "project_id": "ems-app-637cc",
+    "storage_bucket": "ems-app-637cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858906526021:android:2dfef4d8c59bf82b5bfe2c",
+        "android_client_info": {
+          "package_name": "com.example.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858906526021-26jmtog6tijlu24vcvnlr92efnkcvvso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ems",
+            "certificate_hash": "cde5666d1ab29ccde0945536836caec5e54b840e"
+          }
+        },
+        {
+          "client_id": "858906526021-6ssqqrp56qa119jnnm1vbnoc1kkc5p1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBtcYb8KgeXWP9KhDHKnMe-5gm-dKWnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858906526021-6ssqqrp56qa119jnnm1vbnoc1kkc5p1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858906526021-1ndm9qk3mpcsu9ankglpk0vreti9e30j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eventmanagementapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858906526021:android:f4079169474bddff5bfe2c",
+        "android_client_info": {
+          "package_name": "com.example.eventmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858906526021-fb44u5r1d0cpjb28nmvk879t12l0vgk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventmanagementapp",
+            "certificate_hash": "cde5666d1ab29ccde0945536836caec5e54b840e"
+          }
+        },
+        {
+          "client_id": "858906526021-6ssqqrp56qa119jnnm1vbnoc1kkc5p1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBtcYb8KgeXWP9KhDHKnMe-5gm-dKWnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858906526021-6ssqqrp56qa119jnnm1vbnoc1kkc5p1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858906526021-1ndm9qk3mpcsu9ankglpk0vreti9e30j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eventmanagementapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
